@@ -19,8 +19,8 @@ This project demonstrates **production-ready architecture**, **async backend des
 - Pull-to-refresh news feed
 
 
-<img width="801" height="1482" alt="ChatGPT Image Jan 7, 2026, 03_04_08 AM" src="https://github.com/user-attachments/assets/cab66659-c84b-43be-9d94-7d03b72f199d" />
-<img width="1024" height="1536" alt="ai" src="https://github.com/user-attachments/assets/040b80a9-351d-4358-b189-2eb43c9de2d7" />
+<img width="401" height="1282" alt="ChatGPT Image Jan 7, 2026, 03_04_08 AM" src="https://github.com/user-attachments/assets/cab66659-c84b-43be-9d94-7d03b72f199d" />
+<img width="424" height="1536" alt="ai" src="https://github.com/user-attachments/assets/040b80a9-351d-4358-b189-2eb43c9de2d7" />
 
 
 
