@@ -119,42 +119,54 @@ cd app
 npm install
 npx expo start
 
-🧠 Design Decisions
+## 🧠 Design Decisions
 
-**Async-first backend to handle high I/O workloads efficiently
-**Vector search instead of keyword search for relevance
-**Embedding at ingestion time to reduce query latency
-**Modular architecture for maintainability and scalability
-**Offline-first mobile UX for better real-world usability
+- **Async-first backend** to efficiently handle high I/O workloads  
+- **Vector search over keyword search** for improved semantic relevance  
+- **Embeddings generated at ingestion time** to minimize query latency  
+- **Modular architecture** for better maintainability and scalability  
+- **Offline-first mobile UX** to support real-world usage scenarios  
 
-📈 Future Enhancements
---LLM-based abstractive summarization
---User-specific feed ranking using preferences
---Chat history persistence
---Background task scheduling (Celery / workers)
---Push notifications
---Premium subscription features
+---
 
-🎯 Why This Project Matters
-1.This project showcases:
--- Real-world system design
---Applied AI beyond tutorials
---Secure authentication flows
---Scalable backend patterns
---Production-style mobile UI
--- It is designed to reflect industry-grade engineering practices used in modern SaaS and AI-driven products.
+## 📈 Future Enhancements
 
-👨‍💻 Author
+- LLM-based **abstractive summarization**
+- **User-specific feed ranking** based on preferences
+- **Chat history persistence**
+- **Background task scheduling** (Celery / worker-based jobs)
+- **Push notifications**
+- **Premium subscription features**
 
-Md Shakil
-Software Engineer | Backend & AI Systems
-📧 Email: iam.shakil.dev@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/mdshakil2004
+---
+
+## 🎯 Why This Project Matters
+
+This project demonstrates:
+
+- Real-world **system design**
+- **Applied AI** beyond basic tutorials
+- Secure **authentication flows**
+- **Scalable backend** architecture patterns
+- **Production-grade mobile UI**
+- Industry-level engineering practices used in modern **SaaS** and **AI-driven** products
+
+---
+
+## 👨‍💻 Author
+
+**Md Shakil**  
+Software Engineer | Backend & AI Systems  
+
+📧 Email: **iam.shakil.dev@gmail.com**  
+🔗 LinkedIn: [https://linkedin.com/in/mdshakil2004](https://linkedin.com/in/mdshakil2004)
+
 
 
 ---
 
 ### ✅ This README is:
+
 - ATS-safe  
 - Recruiter-friendly  
 - Interview-ready  
