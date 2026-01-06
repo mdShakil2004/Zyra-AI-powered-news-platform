@@ -106,8 +106,6 @@ OPENAI_API_KEY=optional
  source venv/bin/activate   # Windows: venv\Scripts\activate
  pip install -r requirements.txt
 
-```
-
 ## Run the server:
 uvicorn main:app --reload
 
@@ -118,6 +116,10 @@ python scripts/ingest_news.py
 cd app
 npm install
 npx expo start
+
+```
+
+
 
 ## 🧠 Design Decisions
 
