@@ -3,7 +3,7 @@
 Zyra is a **full-stack AI-powered news application** that delivers personalized, context-aware news experiences using **semantic search, AI summarization, and modern mobile UI**.  
 It is built with **React Native (Expo)** on the frontend and **FastAPI + PostgreSQL (pgvector)** on the backend.
 
-This project demonstrates **production-ready architecture**, **async backend design**, and **applied AI (RAG-style retrieval)**.
+This project demonstrates **production-ready architecture**, **async backend design**, and **applied AI (RAG-style retrieval)**
 
 ---
 
